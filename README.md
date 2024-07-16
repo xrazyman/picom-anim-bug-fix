@@ -26,9 +26,7 @@ Your picom config can also now take advantage of some of the options that were p
 
 ----
 ### Installation of this fork
-[AUR](https://aur.archlinux.org/packages/picom-jonaburg-git) package
 
-OR
 
 ```bash
 git clone https://github.com/jonaburg/picom
