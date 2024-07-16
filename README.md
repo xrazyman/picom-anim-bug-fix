@@ -1,6 +1,9 @@
 picom
 =======
 
+bug fix: ```inactive opacity``` ignored in picom config.
+
+
 *new!* : You'll now also find tryone's dual_kawase blur for the new backend, as well as rounded corners from sdhand if they are so desired, merged from ibhagwan.
 
 ![](demo.gif)
